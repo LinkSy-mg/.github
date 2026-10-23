@@ -53,3 +53,7 @@ I code with, alongside me.
 
 The Linux app is open source under the
 [GNU AGPL v3.0 or later](https://github.com/LinkSy-mg/linksy-desktop/blob/main/LICENSE).
+
+---
+
+<sub>Built in Antananarivo, Madagascar 🇲🇬 by <a href="https://axel-rakotoarivao.pages.dev/">Axel RAKOTOARIVAO</a>.</sub>
