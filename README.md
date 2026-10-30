@@ -15,16 +15,17 @@
 ## Linksy in short
 
 Linksy connects your Android phone and your Linux computer: files,
-notifications, texts, the clipboard, media controls, the phone's camera as a
-webcam, and your computer's screen and terminal on the phone. Devices talk
-directly, end-to-end encrypted, with no account and no cloud.
+notifications, texts, the clipboard, media controls, the phone's camera and
+microphone in your apps, a second display, and your computer's screen and
+terminal on the phone. Devices talk directly, end-to-end encrypted, with no
+account and no cloud.
 
 | | |
 | --- | --- |
-| 🌐 Website | [linksy.diary.mg](https://linksy.diary.mg) |
-| ⬇️ Download | [linksy.diary.mg/#download](https://linksy.diary.mg/#download) · [all releases](https://github.com/LinkSy-mg/linksy-releases/releases) |
-| 🗺️ Roadmap | [Project board](https://github.com/orgs/LinkSy-mg/projects/1) |
-| 💻 Source | [linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) |
+| Website | [linksy.diary.mg](https://linksy.diary.mg) |
+| Download | [linksy.diary.mg/#download](https://linksy.diary.mg/#download) · [all releases](https://github.com/LinkSy-mg/linksy-releases/releases) |
+| Roadmap | [Project board](https://github.com/orgs/LinkSy-mg/projects/1) |
+| Source | [linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) · [linksy-mobile](https://github.com/LinkSy-mg/linksy-mobile) · [linksy-server](https://github.com/LinkSy-mg/linksy-server) |
 
 ## Get involved
 
@@ -41,6 +42,6 @@ The Linux app is open source under the
 ---
 
 <p align="center">
-  Built in <b>Antananarivo, Madagascar</b> 🇲🇬 by <a href="https://diary.mg"><b>Axel RAKOTOARIVAO</b></a><br>
+  Built in <b>Antananarivo, Madagascar</b> by <a href="https://diary.mg"><b>Axel RAKOTOARIVAO</b></a><br>
   <a href="https://diary.mg">Portfolio</a> · <a href="https://github.com/Dokja620">GitHub</a>
 </p>
