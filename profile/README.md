@@ -12,23 +12,28 @@
   <a href="https://github.com/orgs/LinkSy-mg/projects/1">Roadmap</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LinkSy-mg/linksy-releases/main/screenshots/desktop-dark.png" width="720" alt="Linksy on Linux: a phone's page with Send Files, Clipboard, View Screen, Ring and Locate, Use as Second Display, Webcam or Microphone, and the terminal">
+</p>
+
 ## Why Linksy
 
 - **Your phone on your computer.** Files, notifications, texts, the clipboard, media
-  controls, the phone's camera as a webcam, and the computer's screen and terminal on the
-  phone.
+  controls, the phone's camera and microphone in your apps, a tablet or phone as a second
+  display, and the computer's screen and terminal on the phone.
 - **Private by design.** Devices talk to each other directly, end-to-end encrypted. No
   account, no cloud, no tracking in the app.
-- **Made for Linux.** A native app that fits your desktop, not a port.
+- **Made for Linux.** Native apps that fit your desktop, not a port: GTK for GNOME and most
+  desktops, Qt for KDE Plasma. X11 desktops, Hyprland, Sway and niri work too.
 - **Open source and free.**
 
 ## Repositories
 
 | Repository | What it is |
 |---|---|
-| [linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) | The Linux app and its background service |
-| [linksy-mobile](https://github.com/LinkSy-mg/linksy-mobile) | The Android app (private for now) |
-| [linksy-server](https://github.com/LinkSy-mg/linksy-server) | Linksy Relay, for reaching your devices away from home (private for now) |
+| [linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) | The Linux apps (GTK and Qt) and their background service |
+| [linksy-mobile](https://github.com/LinkSy-mg/linksy-mobile) | The Android app |
+| [linksy-server](https://github.com/LinkSy-mg/linksy-server) | Linksy Relay, for reaching your devices away from home |
 | [linksy-releases](https://github.com/LinkSy-mg/linksy-releases) | Downloads for every release |
 
 ## Built with
@@ -36,6 +41,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![GTK 4](https://img.shields.io/badge/GTK_4-4A86CF?logo=gtk&logoColor=white)
 ![libadwaita](https://img.shields.io/badge/libadwaita-3584E4?logo=gnome&logoColor=white)
+![Qt 6](https://img.shields.io/badge/Qt_6-41CD52?logo=qt&logoColor=white)
+![Kirigami](https://img.shields.io/badge/Kirigami-1D99F3?logo=kde&logoColor=white)
 ![GStreamer](https://img.shields.io/badge/GStreamer-FF3131?logo=gstreamer&logoColor=white)
 ![PipeWire](https://img.shields.io/badge/PipeWire-4A4A4A)
 ![QUIC](https://img.shields.io/badge/QUIC-2563FF)
@@ -57,6 +64,6 @@ The Linux app is open source under the
 ---
 
 <p align="center">
-  Built in <b>Antananarivo, Madagascar</b> 🇲🇬 by <a href="https://diary.mg"><b>Axel RAKOTOARIVAO</b></a><br>
+  Built in <b>Antananarivo, Madagascar</b> by <a href="https://diary.mg"><b>Axel RAKOTOARIVAO</b></a><br>
   <a href="https://diary.mg">Portfolio</a> · <a href="https://github.com/Dokja620">GitHub</a>
 </p>
