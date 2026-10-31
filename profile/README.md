@@ -1,24 +1,35 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LinkSy-mg/linksy-desktop/main/brand/logo/logo.png" width="96" alt="Linksy">
-</p>
+<img width="1800" height="900" alt="Linksy: your phone and your Linux computer, working as one. The Linux app showing a phone's page next to the Android app showing the computer." src="https://raw.githubusercontent.com/LinkSy-mg/.github/main/profile/banner.png" />
 
-<h1 align="center">Linksy</h1>
+<div align="center">
 
-<p align="center">Your devices, connected. Your phone and your Linux computer, working as one.</p>
-
-<p align="center">
-  <a href="https://linksy.diary.mg">Website</a> ·
-  <a href="https://linksy.diary.mg/#download">Download</a> ·
-  <a href="https://github.com/orgs/LinkSy-mg/projects/1">Roadmap</a>
-</p>
+  <sub>Files, clipboard, screens, webcam, microphone and terminal between your Android phone and your Linux computer. Directly, end to end encrypted, with no account and no cloud.</sub>
+  <br/><br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LinkSy-mg/linksy-releases/main/screenshots/desktop-dark.png" width="720" alt="Linksy on Linux: a phone's page with Send Files, Clipboard, View Screen, Ring and Locate, Use as Second Display, Webcam or Microphone, and the terminal">
+  <a href="https://github.com/LinkSy-mg/linksy-releases#linux">
+    <img src="https://shieldcn.dev/github/release/LinkSy-mg/linksy-desktop.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff&label=Linux&logo=linux&logoColor=22c3e6" alt="Linux version"></a>
+  <a href="https://github.com/LinkSy-mg/linksy-releases#android">
+    <img src="https://shieldcn.dev/github/release/LinkSy-mg/linksy-releases.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff&label=Android&logo=android&logoColor=22c3e6" alt="Android version"></a>
+  <a href="https://github.com/LinkSy-mg/linksy-releases/releases">
+    <img src="https://shieldcn.dev/github/downloads/LinkSy-mg/linksy-releases.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff" alt="Downloads"></a>
+  <br/>
+  <a href="https://github.com/LinkSy-mg/linksy-desktop/stargazers">
+    <img src="https://shieldcn.dev/github/stars/LinkSy-mg/linksy-desktop.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff" alt="Stars"></a>
+  <a href="https://github.com/LinkSy-mg/linksy-desktop/blob/main/LICENSE">
+    <img src="https://shieldcn.dev/github/license/LinkSy-mg/linksy-desktop.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff" alt="License"></a>
+  <a href="https://linksy.diary.mg">
+    <img src="https://shieldcn.dev/badge/Website-linksy.diary.mg-1e2a4a.svg?mode=dark&radius=999&font=geist&split=true&height=28&fontSize=13&labelColor=141821&labelTextColor=ffffff&color=1e2a4a&valueColor=ffffff" alt="Website"></a>
 </p>
+
+**[Download](https://github.com/LinkSy-mg/linksy-releases)** &nbsp;·&nbsp; **[Website](https://linksy.diary.mg)** &nbsp;·&nbsp; **[Roadmap](https://github.com/orgs/LinkSy-mg/projects/1)** &nbsp;·&nbsp; **[Report a problem](https://github.com/LinkSy-mg/linksy-releases/issues)**
+
+</div>
+
+---
 
 ## Why Linksy
 
-- **Your phone on your computer.** Files, notifications, texts, the clipboard, media
+- **Your phone on your computer.** Files, notifications, the clipboard, media
   controls, the phone's camera and microphone in your apps, a tablet or phone as a second
   display, and the computer's screen and terminal on the phone.
 - **Private by design.** Devices talk to each other directly, end-to-end encrypted. No
@@ -27,14 +38,18 @@
   desktops, Qt for KDE Plasma. X11 desktops, Hyprland, Sway and niri work too.
 - **Open source and free.**
 
+---
+
 ## Repositories
 
 | Repository | What it is |
 |---|---|
+| [linksy-releases](https://github.com/LinkSy-mg/linksy-releases) | **Start here:** downloads for Android and Linux, and bug reports |
 | [linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) | The Linux apps (GTK and Qt) and their background service |
 | [linksy-mobile](https://github.com/LinkSy-mg/linksy-mobile) | The Android app |
 | [linksy-server](https://github.com/LinkSy-mg/linksy-server) | Linksy Relay, for reaching your devices away from home |
-| [linksy-releases](https://github.com/LinkSy-mg/linksy-releases) | Downloads for every release |
+
+---
 
 ## Built with
 
@@ -50,6 +65,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
 
 ## How it's made
 
