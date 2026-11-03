@@ -1,4 +1,4 @@
-<img width="1800" height="900" alt="Linksy: your phone and your Linux computer, working as one." src="profile/banner.png" />
+<img width="1800" height="900" alt="Linksy: your phone, your Linux computer, one desk." src="profile/banner.webp" />
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 | Path | What it does |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The page visitors see on [github.com/LinkSy-mg](https://github.com/LinkSy-mg) |
-| [`profile/banner.png`](profile/banner.png) | Its banner |
+| [`profile/banner.webp`](profile/banner.webp) | Its banner |
 
 ---
 

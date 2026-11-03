@@ -1,4 +1,4 @@
-<img width="1800" height="900" alt="Linksy: your phone and your Linux computer, working as one. The Linux app showing a phone's page next to the Android app showing the computer." src="https://raw.githubusercontent.com/LinkSy-mg/.github/main/profile/banner.png" />
+<img width="1800" height="900" alt="Linksy: your phone, your Linux computer, one desk. The GTK and KDE Plasma apps, with the phone's page for the computer and the phone as a deck of buttons." src="https://raw.githubusercontent.com/LinkSy-mg/.github/main/profile/banner.webp" />
 
 <div align="center">
 
